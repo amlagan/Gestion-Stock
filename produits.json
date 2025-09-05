@@ -28,5 +28,29 @@
     "prix": "150",
     "quantite": "3",
     "id": "d2090a96-3433-498f-9e3c-802857d2cb6a"
-  }
+  },
+  {
+    "nom": "Saxophone",
+    "prix": "50k",
+    "quantite": 18,
+    "id": "3b5f22db-37f5-4428-a3cc-27f5acc1bd67"
+  },
+  {
+    "nom": "micro",
+    "prix": "100k",
+    "quantite": 43,
+    "id": "79b7eecc-bc21-4d15-8037-25feaafa6fa8"
+    },
+    {
+        "nom": "Violon",
+        "prix": "75k",
+        "quantite": 10,
+        "id": "5e0a85e2-1a75-4c8d-b699-8996d473fa81"
+    },
+    {
+        "nom": "Fluite",
+        "prix": "60k",
+        "quantite": "23",
+        "id": "a226feaa-d4f1-4137-b602-dae7c508e58e"
+    }
 ]
