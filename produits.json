@@ -1,0 +1,32 @@
+[
+  {
+    "nom": "Trumpette",
+    "prix": "1M",
+    "quantite": "1",
+    "id": "3af3aedc-434a-4117-9aec-3bab86ea8bcd"
+  },
+  {
+    "nom": "Piano",
+    "prix": "100k",
+    "quantite": "4",
+    "id": "78afc10e-c3d1-424a-96c9-0f91e6bd11a8"
+  },
+  {
+    "nom": "Guitar",
+    "prix": "75k",
+    "quantite": 0,
+    "id": "3785c0b1-2b2b-4abb-833f-3a3fd6687269"
+  },
+  {
+    "nom": "Bass",
+    "prix": "30k",
+    "quantite": "12",
+    "id": "ac66d919-22d9-4f55-a652-f7acf6967ee6"
+  },
+  {
+    "nom": "Drums",
+    "prix": "150",
+    "quantite": "3",
+    "id": "d2090a96-3433-498f-9e3c-802857d2cb6a"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "475eedcf-a59c-4a3a-bb67-6d373737499b",
+    "date": "2025-09-05T14:35:17.339Z",
+    "produits": [
+      {
+        "nom": "Guitar",
+        "prix": "75k",
+        "quantite": "34",
+        "id": "3785c0b1-2b2b-4abb-833f-3a3fd6687269"
+      }
+    ]
+  }
+]
